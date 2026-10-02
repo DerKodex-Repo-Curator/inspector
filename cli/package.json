@@ -22,7 +22,7 @@
   "dependencies": {
     "@mcpjam/sdk": "^8.20.1",
     "@modelcontextprotocol/server": "2.0.0",
-    "commander": "^14.0.3",
+    "commander": "^15.0.0",
     "posthog-node": "^5.52.4",
     "ws": "^8.18.0",
     "zod": "^4.2.0"
